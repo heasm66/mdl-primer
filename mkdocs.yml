@@ -1,0 +1,26 @@
+site_name: The MDL Programming Language Primer
+repo_url: https://github.com/taradinoc/mdl-primer
+
+theme: readthedocs
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - Home: "index.md"
+  - "Front matter": "00-front-matter.md"
+  - "Chapter 1: Basic Interaction": "01-basic-interaction.md"
+  - "Chapter 2: MDL Basics": "02-mdl-basics.md"
+  - "Chapter 3: Read, Evaluate, and Print": "03-read-evaluate-and-print.md"
+  - "Chapter 4: Atoms and Their Values": "04-atoms-and-their-values.md"
+  - "Chapter 5: Built-in Functions": "05-built-in-functions.md"
+  - "Chapter 6: Simple Functions": "06-simple-functions.md"
+  - "Chapter 7: MDL TYPEs": "07-mdl-types.md"
+  - "Chapter 8: MDL Structures": "08-mdl-structures.md"
+  - "Chapter 9: Programming Constructs": "09-programming-constructs.md"
+  - "Chapter 10: Looping": "10-looping.md"
+  - "Chapter 11: Argument Lists in FUNCTIONs": "11-argument-lists-in-functions.md"
+  - "Chapter 12: Input/Output": "12-input-output.md"
+  - "Chapter 13: Making Tables": "13-making-tables.md"
+  - "Chapter 14: Debugging MDL Programs - An Introduction": "14-debugging-mdl-programs-an-introduction.md"
+  - "Index": "appendix-1-index.md"
